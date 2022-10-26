@@ -1,5 +1,4 @@
 [webservers]
-test[1:3].example.com
-testbruno.example.com
+test[1:5].example.com
 [test]
 localhost
