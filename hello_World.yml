@@ -1,5 +1,5 @@
 - name: Hello World Sample
-  hosts: webservers[0]
+  hosts: webservers[1]
   tasks:
     - name: Hello Message
       debug:
